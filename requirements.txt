@@ -1,0 +1,4 @@
+pip
+jupyter
+notebook
+ipykernel
