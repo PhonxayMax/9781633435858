@@ -9,6 +9,6 @@ langchain
 faiss-cpu
 html2text
 lxml
-
-
 wikipedia
+
+rank_bm25

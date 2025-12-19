@@ -1,0 +1,6 @@
+Document(page_content="Quantum computing uses qubits instead of classical bits. Qubits can exist in superposition, meaning they can be both 0 and 1 simultaneously, enabling parallel processing of information.", metadata={"category": "science"}),
+Document(page_content="Quantum computers leverage quantum entanglement, where qubits become correlated and the state of one affects others instantly. This allows for complex calculations that classical computers cannot efficiently perform.", metadata={"category": "science"}),
+Document(page_content="Quantum gates manipulate qubits to perform quantum algorithms. These gates are analogous to classical logic gates but operate on quantum states.", metadata={"category": "science"}),
+Document(page_content="AI is revolutionizing healthcare with advanced diagnostics.", metadata={"category": "technology"}),
+Document(page_content="Stock markets are influenced by global economic policies.", metadata={"category": "finance"}),
+Document(page_content="Einstein’s theory of relativity changed our understanding of physics.", metadata={"category": "science"})
